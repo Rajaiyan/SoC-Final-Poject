@@ -33,6 +33,8 @@ After running the program, the following figure should be displayed.
 </div>
 
 
+
+
 An arbitrary scheduling has been implemented for 10 tasks, the result of which is shown in the image below.
 
 
