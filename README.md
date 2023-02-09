@@ -7,7 +7,7 @@ I have done a project for the system-on-chip course, where we examine step-by-st
 Requirement: Installing Ubuntu
 
 # First Section
-Download all file in folder with name of First Section. A program is written in Python language for scheduling. This program has been tested and its function is correct.
+Download all file in folder with name of 1st Section. A program is written in Python language for scheduling. This program has been tested and its function is correct.
 Transfer the downloaded file to your virtual machine on which the Ubuntu operating system is installed. Enter the folder. Open a terminal and type the following command.
 
 ```sh
@@ -26,7 +26,7 @@ The above command will execute the written program.
 
 After running the program, the following figure should be displayed.
 <div align="center">
-  <img align="center" src="First Section/First Section.png" width="500px" />
+  <img align="center" src="1st Section/First Section.png" width="500px" />
   <figcaption><b><br>Figure 1: First Section.</b></figcaption>
 </div>
 
@@ -36,13 +36,13 @@ An arbitrary scheduling has been implemented for 10 tasks, the result of which i
 
 After running the program, the following figure should be displayed.
 <div align="center">
-  <img align="center" src="First Section/10task.png" width="500px" />
+  <img align="center" src="1st Section/10task.png" width="500px" />
   <figcaption><b><br>Figure 2: First Section.</b></figcaption>
 </div>
 
 
 # Second Section
-Download all file in folder with name of Second Section. A program is written in Python language for Ant Colony Optimization (ACO). 
+Download all file in folder with name of 2nd Section. A program is written in Python language for Ant Colony Optimization (ACO). 
 
 How to run it? Transfer the downloaded file to your virtual machine on which the Ubuntu operating system is installed. Enter the folder. Open a terminal and follow the follwing steps.
 
@@ -70,12 +70,12 @@ python main.py
 
 After running the program, the following figures should be displayed.
 <div align="center">
-  <img align="center" src="Second Section/results/ACO_cycles_results.png" width="500px" />
+  <img align="center" src="2nd Section/results/ACO_cycles_results.png" width="500px" />
   <figcaption><b><br>Figure 3: Second Section.</b></figcaption>
 </div>
 
 <div align="center">
-  <img align="center" src="Second Section/results/execution_gantt.png" width="500px" />
+  <img align="center" src="2nd Section/results/execution_gantt.png" width="500px" />
   <figcaption><b><br>Figure 4: Second Section.</b></figcaption>
 </div>
 
@@ -91,7 +91,7 @@ Finally, it is only necessary to change the line of the project (Main.py) that i
 
 
 <div align="center">
-  <img align="center" src="Third Section/Figure_5.png" width="500px" />
+  <img align="center" src="3rd Section/Figure_5.png" width="500px" />
   <figcaption><b><br>Figure 5: Third Section.</b></figcaption>
 </div>
 
