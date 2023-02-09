@@ -119,7 +119,7 @@ python FCFS.py
 ```
 *NOTE: If you  want to run SJF, You can easily replace FCFS with SJF
 
-After running the program, It will ask you to enter the necessary information and then it will display the schedule for you. The following figures should be displayed.
+After running the program, It will ask you to enter the necessary information and then it will display the schedule for you. The following figure should be displayed.
 
 
 <div align="center">
