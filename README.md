@@ -88,7 +88,7 @@ After running the program, the following figures should be displayed.
 
 In this section we should practice how to change other people's codes. To do this part of the project, try to change the Second Section program in such a way that the timing in Figure 3 changes.
 
-To do this, you need to prepare text files for testing. These files have been prepared and are located in Third Section folder. What you need to do is download all the files in the Third Section, and then move them to the test_instances folder you downloaded in the second part of the project.
+To do this, you need to prepare text files for testing. These files have been prepared and are located in 3rd Section folder. What you need to do is download all the files in the Third Section, and then move them to the test_instances folder you downloaded in the second part of the project.
 
 Finally, it is only necessary to change the line of the project (Main.py) that is highlighted in the image below and replace it with the name of one of the files that you placed in the test_instances folder. Now you just need to run the Main.py
 
