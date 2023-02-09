@@ -110,4 +110,18 @@ In this section i write a program in Python language that receives the number of
 
 
 
+How to run it? Transfer the downloaded file to your virtual machine on which the Ubuntu operating system is installed. Enter the folder. Open a terminal and write the below comman in terminal.
+```sh
+python FCFS.py
+```
+*NOTE: If you  want to run SJF, You can easily replace FCFS with SJF
+
+After running the program, It will ask you to enter the necessary information and then it will display the schedule for you. The following figures should be displayed.
+
+
+<div align="center">
+  <img align="center" src="4th Section/Figure_7.png" width="500px" />
+  <figcaption><b><br>Figure 7: Fourth Section.</b></figcaption>
+</div>
+
 
