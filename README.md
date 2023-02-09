@@ -25,6 +25,8 @@ The above command will execute the written program.
 
 
 After running the program, the following figure should be displayed.
+
+
 <div align="center">
   <img align="center" src="1st Section/First Section.png" width="500px" />
   <figcaption><b><br>Figure 1: First Section.</b></figcaption>
@@ -34,7 +36,6 @@ After running the program, the following figure should be displayed.
 An arbitrary scheduling has been implemented for 10 tasks, the result of which is shown in the image below.
 
 
-After running the program, the following figure should be displayed.
 <div align="center">
   <img align="center" src="1st Section/10task.png" width="500px" />
   <figcaption><b><br>Figure 2: First Section.</b></figcaption>
@@ -99,7 +100,7 @@ Finally, it is only necessary to change the line of the project (Main.py) that i
 One of the possible changes is that the output of the program is changed from Figure 3 to Figure 4. Pay attention to the differences between these two Figures. You can also get your unique output.
 
 <div align="center">
-  <img align="center" src="Third Section/Figure_6.png" width="500px" />
+  <img align="center" src="3rd Section/Figure_6.png" width="500px" />
   <figcaption><b><br>Figure 6: Third Section.</b></figcaption>
 </div>
 
