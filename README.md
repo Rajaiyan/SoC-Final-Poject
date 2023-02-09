@@ -37,7 +37,7 @@ An arbitrary scheduling has been implemented for 10 tasks, the result of which i
 After running the program, the following figure should be displayed.
 <div align="center">
   <img align="center" src="First Section/10task.png" width="500px" />
-  <figcaption><b><br>Figure 1: First Section.</b></figcaption>
+  <figcaption><b><br>Figure 2: First Section.</b></figcaption>
 </div>
 
 
@@ -71,12 +71,12 @@ python main.py
 After running the program, the following figures should be displayed.
 <div align="center">
   <img align="center" src="Second Section/results/ACO_cycles_results.png" width="500px" />
-  <figcaption><b><br>Figure 2: Second Section.</b></figcaption>
+  <figcaption><b><br>Figure 3: Second Section.</b></figcaption>
 </div>
 
 <div align="center">
   <img align="center" src="Second Section/results/execution_gantt.png" width="500px" />
-  <figcaption><b><br>Figure 3: Second Section.</b></figcaption>
+  <figcaption><b><br>Figure 4: Second Section.</b></figcaption>
 </div>
 
 
@@ -92,15 +92,15 @@ Finally, it is only necessary to change the line of the project (Main.py) that i
 
 <div align="center">
   <img align="center" src="Third Section/Figure_5.png" width="500px" />
-  <figcaption><b><br>Figure 4: Third Section.</b></figcaption>
+  <figcaption><b><br>Figure 5: Third Section.</b></figcaption>
 </div>
 
 
 One of the possible changes is that the output of the program is changed from Figure 3 to Figure 4. Pay attention to the differences between these two Figures. You can also get your unique output.
 
 <div align="center">
-  <img align="center" src="Third Section/Figure_4.png" width="500px" />
-  <figcaption><b><br>Figure 4: Third Section.</b></figcaption>
+  <img align="center" src="Third Section/Figure_6.png" width="500px" />
+  <figcaption><b><br>Figure 6: Third Section.</b></figcaption>
 </div>
 
 
