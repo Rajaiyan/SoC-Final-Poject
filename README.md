@@ -53,7 +53,7 @@ You should flow the four step below:
 
 first: write the below comman in terminal.
 ```sh
-source ACO_project/bin/activate
+virtualenv ACO_project
 ```
 
 second: write the below comman in terminal.
