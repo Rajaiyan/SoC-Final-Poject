@@ -8,7 +8,7 @@ Requirement: Installing Ubuntu
 
 # First Section
 Download all file in folder with name of 1st Section. A program is written in Python language for scheduling. This program has been tested and its function is correct.
-Transfer the downloaded file to your virtual machine on which the Ubuntu operating system is installed. Enter the folder. Open a terminal and type the following command.
+Transfer the downloaded file to your virtual machine on which the Ubuntu operating system is installed. Enter the folder. Open a terminal and type the following commands.
 
 ```sh
 pip install -r requirements.txt
